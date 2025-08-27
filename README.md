@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-Soy estudiante de Ingeniería de Sistemas (6to ciclo) en la Universidad Nacional de Ingeniería (UNI).<br>Me apasionan los temas de Data Science, Inteligencia Artificial y la aplicación de metodologías ágiles para gestionar proyectos tecnológicos de manera eficiente.
+Soy estudiante de Ingeniería de Sistemas (6to ciclo) en la Universidad Nacional de Ingeniería (UNI).Me apasionan los temas de Data Science, Inteligencia Artificial y la aplicación de metodologías ágiles para gestionar proyectos tecnológicos de manera eficiente.
 
 
 ## 🌐 Socials:
